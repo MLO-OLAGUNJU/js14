@@ -59,6 +59,7 @@ function myFunc() {
 
 myFunc();
 
+//--------------===Understanding SCOPE=====---------------------
 // Global = Not in function or block, Not desirable.
 // Local = in a function or block. Not global.
 // var instantiates function() scoped variables.
